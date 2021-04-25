@@ -7,5 +7,5 @@ Inventory Implementation
 
 Time Required for Tracking :
 1.Data Store Design : 40 Min
-2.API and Service logic : 60 Min
+2.API and Service logic : 90 Min
 3.Unit Test Coverage : 20 Min
